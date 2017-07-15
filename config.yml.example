@@ -1,0 +1,9 @@
+telegram_token: "telegram:token"
+channel_id: -1001132998294
+
+init_sleep: 5
+camera_rotaion: 0
+camera_resolution_x: 3280
+camera_resolution_y: 2464
+
+camera_pic_filename: "/tmp/photo1.jpg"
